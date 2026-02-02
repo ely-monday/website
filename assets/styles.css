@@ -17,6 +17,19 @@ body {
   line-height: 1.5;
 }
 
+/* image */
+
+.site-logo {
+  height: 36px;
+  width: auto;
+}
+
+.brand-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 /* Sticky footer layout */
 .page {
   min-height: 100vh;
